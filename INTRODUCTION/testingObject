@@ -1,0 +1,15 @@
+let ans = {
+    id: 1,
+    availabe: true,
+    count: 4,
+    name:"dave",
+    author:"chichi"
+
+}
+
+console.log(person)
+
+
+let array = []
+let arr = new Array(3)
+
